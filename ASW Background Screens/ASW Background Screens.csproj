@@ -138,6 +138,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="dog_icon.ico" />
+    <Content Include="Docs\Screenshot-Main.png" />
+    <Content Include="Docs\Screenshot-Sample-Save-data.png" />
+    <Content Include="Docs\Screenshot-Save-for-Print-Step-2.png" />
+    <Content Include="Docs\Screenshot-Save-for-Print.png" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
