@@ -39,7 +39,7 @@ Supports:
 	- This file won't exist if you haven't marked any files yet.
 	- This is a continuous file -- added items are appended.
 
-![Sample Save Screen](docs/Screenshot-Sample-Save-data.png)
+![Sample Save Screen](docs/Screenshot-Save-for-Print.png)
 
 ![Sample Save Screen Part 2](docs/Screenshot-Save-for-Print-Step-2.png)
 
