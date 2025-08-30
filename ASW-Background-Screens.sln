@@ -3,9 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36310.24
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASW Background Screens", "ASW Background Screens\ASW Background Screens.csproj", "{F2955C06-D0A6-4AE8-9FBF-56CC89F74E42}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASW-Background-Screens", "ASW Background Screens\ASW-Background-Screens.csproj", "{F2955C06-D0A6-4AE8-9FBF-56CC89F74E42}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clsConfig", "clsConfig\clsConfig.csproj", "{340FE92D-BA4E-48F1-A8BC-E170AD8D661C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		LICENSE.txt = LICENSE.txt
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		docs\Screenshot-Main.png = docs\Screenshot-Main.png
+		docs\Screenshot-Sample-Save-data.png = docs\Screenshot-Sample-Save-data.png
+		docs\Screenshot-Save-for-Print-Step-2.png = docs\Screenshot-Save-for-Print-Step-2.png
+		docs\Screenshot-Save-for-Print.png = docs\Screenshot-Save-for-Print.png
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -34,6 +50,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{02EA681E-C7D8-13C7-8484-4AC65E1B71E8} = {8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {46669000-E9AE-4522-89E5-BBA4D672C757}
