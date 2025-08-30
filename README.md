@@ -1,6 +1,6 @@
 # ASW Background Screens
 
-![Main screen of app](docs/Screenshot Main.png)
+![Main screen of app](docs/Screenshot-Main.png)
 
 Allows separate background images for each monitor in Windows (Up to 4).  
 Supports:
@@ -38,9 +38,9 @@ Supports:
 	-- References to files you've marked via an F9. 
 	-- This file won't exist if you haven't marked any files yet.
 	-- This is a continuous file -- added items are appended.
-![Sample Save Screen](docs/Screenshot Sample Save data.png)
-![Sample Save Screen Part 2](docs/Screenshot Save for Print Step 2.png)
-![Sample Save Screen Data Saved](docs/Screenshot Sample Save data.png)
+![Sample Save Screen](docs/Screenshot-Sample-Save-data.png)
+![Sample Save Screen Part 2](docs/Screenshot-Save-for-Print-Step-2.png)
+![Sample Save Screen Data Saved](docs/Screenshot-Sample-Save-data.png)
 
 -- There is a DebugData.csv file in the exe folder that holds
 	-- References to all files selected in each rotation. 
